@@ -1,3 +1,5 @@
-This newspaper app is an articles page where journalists can post articles, 
-set up permissions so only the author of an article can edit or delete it,
-and finally add the ability for other users to write comments on each article.
+## A Newspaper App Built by Django
+
+<img src="./Django.png" alt="django" height="300" width="650" />
+
+<p>This newspaper app allows journalists to publish, edit or delete their articles. It enables users to write comments on each article. I completed this project as part of my learning experience with <a href="https://djangoforbeginners.com">Django for Beginners</a>, authored by William S. Vincent.</p>
